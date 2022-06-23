@@ -60,14 +60,3 @@ button.onclick = function() {
     glasses()
 
 };
-
-// glasses(1)
-
-// Lente prime apenas se o usuário tiver graus esférico, entre os graus -3 e -12
-// Além disso só atende grau cilindrico -2, porém se o usuário 
-// apresentar grau cilindrico ele passa a atender grau esférico entre -3 e -10
-// Lente vision é p 0 até -15 esférico e até -5 de cilindrico 
-// Quando a lente prime está disponível ela deve ser a única exibida para o usuário
-// O rau limite que o usuário pode inserir é de 0 a -15 para
-//  esférico e - 6 para cilindrico
-// 0,25 em 0,25
